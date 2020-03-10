@@ -7,12 +7,12 @@
 1.2 安装 git
 
 2. 注册 github 账号
+```
 
-`WYZ214
-
+WYZ214
 1713654484@qq.com
-
-wyz19990214`
+wyz19990214
+```
 
 3. 创建 github 仓库（repository）
 
