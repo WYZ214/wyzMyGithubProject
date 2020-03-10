@@ -36,4 +36,4 @@ wyz19990214
 
 7. 在IDEA中进行git操作
 
-这是可以仍旧使用syn.bat进行同步，也可以通过IDEA进行操作，直接VCS->Commit提交至
+这是可以仍旧使用syn.bat进行同步，也可以通过IDEA进行操作，直接VCS->Commit提交至服务器操作
